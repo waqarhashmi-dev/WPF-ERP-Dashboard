@@ -1,0 +1,1 @@
+namespace WpfErpDashboard { public partial class App : Application { } }
